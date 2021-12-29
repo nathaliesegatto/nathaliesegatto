@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathaliesegatto
 - 👀 I’m interested in data and development.
-- 🌱 I’m currently learning Python, Java, SQL, Git, Linus, PowerBI
+- 🌱 I’m currently learning Python, Java, SQL, Git, Linux, PowerBI
 - 💞️ I’m looking to collaborate on data or development projects.
 - 📫 How to reach me: http://linkedin.com.in/nathalie-segatto-morel / nathalie.s.morel@gmail.com
 
